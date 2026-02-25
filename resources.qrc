@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/employees.json</file>
+    </qresource>
+</RCC>

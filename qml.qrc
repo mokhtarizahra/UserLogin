@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>StatusAllUsers.qml</file>
+        <file>LoginPage.qml</file>
+        <file>UserPage.qml</file>
+        <file>Icons/UserIcon.png</file>
+        <file>ManagerPage.qml</file>
+        <file>AllEmployee.qml</file>
+        <file>PersonalEmployee.qml</file>
+        <file>Sign_up.qml</file>
+        <file>component/ButtonStyle.qml</file>
+        <file>component/ComboboxStyle.qml</file>
+        <file>component/DialogStyle.qml</file>
+        <file>component/ListViewStyle.qml</file>
+        <file>component/ListViewStyleEmployee.qml</file>
+        <file>component/ListViewStyleloginHistory.qml</file>
+        <file>component/TextFieldStyle.qml</file>
+        <file>component/ThemeManager.qml</file>
+        <file>component/themes/ThemeDark.qml</file>
+        <file>component/themes/ThemeLight.qml</file>
+        <file>component/qmldir</file>
+        <file>Icons/icons8-moon.png</file>
+        <file>Icons/icons8-sun.png</file>
+        <file>component/ButtonStyle2.qml</file>
+        <file>UserPage2.qml</file>
+        <file>component/Card.qml</file>
+        <file>component/AppLabel.qml</file>
+        <file>component/ListViewStyleUserInfo.qml</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,15 @@
+#ifndef ITEM_H
+#define ITEM_H
+#include <QVariant>
+#include <QMap>
+
+template <typename Item>
+
+class Item
+{
+public:
+    Item(const QMap<QString, Item> &data, qint64 id, int status = false)
+        : map(data), ID(id), Status(status) {}
+};
+
+#endif // ITEM_H
